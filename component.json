@@ -1,0 +1,16 @@
+{
+  "name": "component-highcharts",
+  "repo": "mvanasse/component-highcharts",
+  "description": "http://highcharts.com",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/jquery": "1.9.1"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

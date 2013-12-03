@@ -1,0 +1,3 @@
+index.js: '@component build --standalone highcharts'
+test/*:
+build/*:
