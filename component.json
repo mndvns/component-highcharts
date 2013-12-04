@@ -1,8 +1,8 @@
 {
-  "name": "component-highcharts",
+  "name": "highcharts",
   "repo": "mvanasse/component-highcharts",
   "description": "http://highcharts.com",
-  "version": "0.0.1",
+  "version": "3.0.2",
   "keywords": [],
   "dependencies": {
     "component/jquery": "1.9.1"
